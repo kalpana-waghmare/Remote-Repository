@@ -1,2 +1,0 @@
-Git bash is here
-Wlecome to git bash
