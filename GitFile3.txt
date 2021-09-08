@@ -1,2 +1,1 @@
-Welcome to github.com
-github is best platform to create remote repository
+This is file3
